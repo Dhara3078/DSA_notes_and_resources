@@ -39,4 +39,4 @@
 This will be the repository for C++ topic wise questions, practice questions and DSA :)
 
 Day 1: Bit Manipulation  
-
+Day 2: Array and solved some questions on it

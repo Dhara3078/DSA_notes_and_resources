@@ -1,7 +1,5 @@
 <h1 align="center"> 🎉🎊 100 Days of DSA Challenge ✨ with C++ 🎊🎉 </h1>
-<p align="center">
-<img align="center" src="https://octodex.github.com/images/femalecodertocat.png" width="300"/>
-</p>
+
 
 ### This repository contains all the coding problems solved by me.
 
@@ -39,4 +37,13 @@
 This will be the repository for C++ topic wise questions, practice questions and DSA :)
 
 Day 1: Bit Manipulation  
-Day 2: Array and solved some questions on it
+
+Day 2: Array 
+
+Day 3: strings 
+
+Day 4: searching
+
+Day 5: sorting 
+
+Day 6: Hashing 

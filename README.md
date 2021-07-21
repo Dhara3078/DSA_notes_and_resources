@@ -47,3 +47,27 @@ Day 4: searching
 Day 5: sorting 
 
 Day 6: Hashing 
+
+Day 7: done some quetions on hashing
+
+Day 8: done some questions on sorting
+
+Day 9: window sliding 
+
+## Day 10: Some questions on window sliding
+   🔴1. [Number of subarrays with maximum values in given range](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Number%20of%20subarrays%20with%20maximum%20values%20in%20given%20range.cpp)
+   
+   🟣2. [Maximum sum of subarray less than or equal to x](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Maximum%20sum%20of%20subarray%20less%20than%20or%20equal%20to%20x.cpp)
+   
+   🟡3. [Count Occurences of Anagrams](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Count%20Occurences%20of%20Anagrams.cpp)
+   
+   🟠4. [Max_Sum_Subarray_of_size_K](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Max_Sum_Subarray_of_size_K.cpp)
+   
+ ## Day 11: Some questions on array and string
+   🟢1. [Maximum Sum Circular Subarray](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Maximum%20Sum%20Circular%20Subarray.cpp)
+   
+   🔴2. [Smallest Subarray with sum greater than a given value](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Smallest%20Subarray%20with%20sum%20greater%20than%20a%20given%20value.cpp)
+   
+   🟣3. [Minimum swaps and K together](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Minimum%20swaps%20and%20K%20together.cpp)
+   
+   🟡4. [Factorials of large numbers](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Factorials%20of%20large%20numbers.cpp)

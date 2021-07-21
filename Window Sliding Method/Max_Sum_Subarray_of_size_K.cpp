@@ -4,18 +4,18 @@
 
 int maximumSumSubarray(int K, vector<int> &Arr , int N){
     
-    // code here 
+    // using window sliding  
     int i=0,j=0;
     int sum=0,Max=INT_MIN;
     
     while(j<N){
-        sum+=Arr[j];
+        sum+=Arr[j]; //compute the sum
         if(j-i+1<K){
         j++;
         }
-        else if (j-i+1==K){
-            Max=max(Max,sum);
-            sum=sum-Arr[i];
+        else if (j-i+1==K){ //when we hit window size 
+            Max=max(Max,sum);//if sum is maximum than Max we update max
+            sum=sum-Arr[i]; //for sliding the window we subtract Arr[i] from sum
             i++;
             j++;
         }

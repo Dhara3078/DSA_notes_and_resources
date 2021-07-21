@@ -63,7 +63,7 @@ Day 9: window sliding
    
    🟠4. [Max_Sum_Subarray_of_size_K](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Max_Sum_Subarray_of_size_K.cpp)
    
- ## Day 11: Some questions on array and string
+## Day 11: Some questions on array and string
    🟢1. [Maximum Sum Circular Subarray](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Maximum%20Sum%20Circular%20Subarray.cpp)
    
    🔴2. [Smallest Subarray with sum greater than a given value](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Smallest%20Subarray%20with%20sum%20greater%20than%20a%20given%20value.cpp)
@@ -71,3 +71,18 @@ Day 9: window sliding
    🟣3. [Minimum swaps and K together](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Minimum%20swaps%20and%20K%20together.cpp)
    
    🟡4. [Factorials of large numbers](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Factorials%20of%20large%20numbers.cpp)
+   
+## Day 12: Some questions on array 
+   🟠1. [Find the Duplicate Number](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Find%20the%20Duplicate%20Number.cpp)
+   
+   🟣2. [Minimum swaps required bring element’s less equal K together](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Find%20the%20Duplicate%20Number.cpp)
+   
+   🟢3. [Cyclically_rotate_an_array_by_one](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Cyclically_rotate_an_array_by_one.cpp)
+   
+   🔴4. [Sort_Colors](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Array/Sort_Colors.cpp)
+   
+## Day 13: some questions on string
+   🟡1. [Palindrome String](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Palindrome%20String.cpp)
+   
+   ⚪2. 
+   

@@ -1,4 +1,4 @@
-//link for question⬇⬇
+//link for question⬇
 //https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
 
 void rotate(int arr[], int n)

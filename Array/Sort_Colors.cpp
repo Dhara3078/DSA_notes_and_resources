@@ -1,4 +1,4 @@
-// link for question⬇⬇
+// link for question⬇
 //https://leetcode.com/problems/sort-colors/
 
 // Used Dutch National Flag Algorithm

@@ -84,5 +84,14 @@ Day 9: window sliding
 ## Day 13: some questions on string
    🟡1. [Palindrome String](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Palindrome%20String.cpp)
    
-   ⚪2. 
+   ⚪2. [Longest Palindrome in a String](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Longest%20Palindrome%20in%20a%20String.cpp)
+   
+   🟤3. [Roman Number to Integer method 1](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Roman%20Number%20to%20Integer.cpp)
+   
+   🟣4. [Roman Number to Integer method 2](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Roman%20Number%20to%20Integer2.cpp)
+   
+## Day 14: more questions on string
+   🔴1. [Isomorphic Strings](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Isomorphic%20Strings.cpp)
+   
+   🟢2. 
    

@@ -93,5 +93,9 @@ Day 9: window sliding
 ## Day 14: more questions on string
    🔴1. [Isomorphic Strings](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Isomorphic%20Strings.cpp)
    
-   🟢2. 
+   🟢2. [Min Number of Flips](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Min%20Number%20of%20Flips.cpp)
+   
+   ⚪3. [Longest Common Prefix](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Longest%20Common%20Prefix.cpp)
+   
+   🟡4. [Permutation in String](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Permutation%20in%20String.cpp)
    

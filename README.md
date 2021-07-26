@@ -5,7 +5,7 @@
 
 * Find all topic wise questions in different folders🕵️‍♀️
 * Problems are from Leetcode and Geeksforgeeks website.👩‍🏫✌
-* Separate folders for CP (Codechef and Codeforces).. All Solutions are not optimised 🤭
+* Separate folders for CP (Codechef).. All Solutions are not optimised 🤭
 
 
 ## Big O Notation

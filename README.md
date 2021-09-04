@@ -99,3 +99,39 @@ Day 9: window sliding
    
    🟡4. [Permutation in String](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/string/Permutation%20in%20String.cpp)
    
+## Day 15: Learned Binary search and Solved some questions on Binary Search 
+   🟠1. [Common elements](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Common%20elements.cpp)
+   
+   🟣2. [Value equal to index value](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Value%20equal%20to%20index%20value.cpp)
+   
+   🟢3. [Find First and Last Position of Element in Sorted Array](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
+   
+   🔴4. [Peak Index in a Mountain Array(1)](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Peak%20Index%20in%20a%20Mountain%20Array(1).cpp)
+   
+## Day 16: Questions on Binary Search
+   🟡1. [Find Peak Element](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Find%20Peak%20Element.cpp)
+   
+   ⚪2. [Find in Mountain Array](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Find%20in%20Mountain%20Array.cpp)
+   
+   🟤3. [Find Smallest Letter Greater Than Target](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
+   
+   🟣4. [Split Array Largest Sum](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Split%20Array%20Largest%20Sum.cpp)
+   
+## Day 17: More Questions on Binary Search
+   🟢1. [Find position of an element in a sorted array of infinite numbers](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Find%20position%20of%20an%20element%20in%20a%20sorted%20array%20of%20infinite%20numbers.cpp)
+   
+   🔴2. [Allocate minimum number of pages](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Allocate%20minimum%20number%20of%20pages.cpp)
+   
+   🟣3. [Find Pair Given Difference](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Find%20Pair%20Given%20Difference.cpp)
+   
+   🟡4. [Find the element that appears once](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Find%20the%20element%20that%20appears%20once.cpp)
+      
+## Day 18: Questions on binary search
+   🟠1. [Minimum Number of Days to Make m Bouquets](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.cpp)
+   
+   ⚪2. [Smallest factorial number](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Smallest%20factorial%20number.cpp)
+   
+
+   
+   
+   

@@ -131,7 +131,32 @@ Day 9: window sliding
    
    ⚪2. [Smallest factorial number](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Searching/Smallest%20factorial%20number.cpp)
    
-
+## Day 19: Solved some questions on Hashing
+   🔴1. [Array_Subset_of_another_array](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Array_Subset_of_another_array.cpp)
+   
+   🟣2. [Largest_subarray_of_0's_and_1's](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Largest_subarray_of_0's_and_1's.cpp)
+   
+   🟡3. [Subarray_with_0_sum](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Subarray_with_0_sum.cpp)
+   
+   🟠4. [Union_of_two_arrays](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Union_of_two_arrays.cpp)
+   
+## Day 20: more questions on Hashing
+   🔴1. [Count pairs with given sum](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Count%20pairs%20with%20given%20sum.cpp)
+   
+   🟢2. [Second most repeated string in a sequence](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Second%20most%20repeated%20string%20in%20a%20sequence.cpp)
+   
+   ⚪3. [Longest consecutive subsequence](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Longest%20consecutive%20subsequence.cpp)
+   
+   🟡4. [Smallest distinct window](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Smallest%20distinct%20window.cpp)
+   
+## Day 21: Some questions on Hashing
+   🟠1. [Group Anagrams](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Group%20Anagrams.cpp)
+   
+   🟣2. [Smallest window in a string containing all the characters of another string](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Smallest%20window%20in%20a%20string%20containing%20all%20the%20characters%20of%20another%20string.cpp)
+   
+   🟢3. [Subarray with 0 sum](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Subarray%20with%200%20sum.cpp)
+   
+   🔴4. [Count distinct elements in every window ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Count%20distinct%20elements%20in%20every%20window.cpp)   
    
    
    

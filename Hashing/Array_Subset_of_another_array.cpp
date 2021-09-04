@@ -1,4 +1,4 @@
-//Question link⬇⬇
+//Link for the question⬇⬇
 //https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1
 
 string isSubset(int a1[], int a2[], int n, int m) {

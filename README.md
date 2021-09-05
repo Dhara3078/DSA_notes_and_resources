@@ -158,5 +158,21 @@ Day 9: window sliding
    
    🔴4. [Count distinct elements in every window ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Hashing/Count%20distinct%20elements%20in%20every%20window.cpp)   
    
+## Day 22: Learned Prefix sum method and solved following questions
+   🟡1. [Max Sum Subarray of size K](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Max%20Sum%20Subarray%20of%20size%20K.cpp)
    
+   ⚪2. [Longest Equal Prefix](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Longest%20Equal%20Prefix.cpp)
    
+   🟤3. [Subarray with given sum](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Subarray%20with%20given%20sum.cpp)
+   
+   🟣4. [Equilibrium Point](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Equilibrium%20Point.cpp)
+     
+## Day 23: more questions on prefix sum
+   🔴1. [Max value after m range operation](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Max%20value%20after%20m%20range%20operation.cpp)
+   
+   🟣2. [Mean of range in array](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Mean_of_range_in_array.cpp)
+   
+   🟡3. [Nitika and her queries](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Nitika%20and%20her%20queries.cpp)
+   
+   🟠4. [Maximum sum Rectangle](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Maximum%20sum%20Rectangle.cpp)
+      

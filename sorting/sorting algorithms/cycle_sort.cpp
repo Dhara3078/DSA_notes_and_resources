@@ -7,7 +7,7 @@
 //                  Best case = O(N)
 
 
-void cycleSort (int arr[],int n){
+void cycleSort (int arr[] ,int n){
   int i=0;
   while(i<n-1){
     if(i!=arr[i]-1)

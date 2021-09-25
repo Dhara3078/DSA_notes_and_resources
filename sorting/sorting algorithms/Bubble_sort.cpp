@@ -8,7 +8,7 @@
 //Bubble sort is also knows as sinking sort and exchange sort.
 //Bubble sort is Inplace and Stable sorting algorithm.
 
-void BubbleSort(int arr, int n){
+void BubbleSort(int arr[], int n){
   for(int i=0;i<n-1;i++){
     bool swapped = false;
     //after each loop, max item will come at the last respective index

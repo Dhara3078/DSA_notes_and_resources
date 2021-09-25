@@ -5,7 +5,7 @@
 //Does less memory writes compared to Quick sort, Merge sort, Insertion sort, etc. But cycle sort is optimal in terms of memory writes.
 //Idea: run outer loop 0 to n-1 find last index of array by n-i-1, then find index of max element of array from starting 0 to last index. After that swap element at index of last and element at maxIndex
 
-void SelectionSort(int arr[], int n){
+void SelectionSort(int arr[],int n){
   for(int i=0;i<n;i++){
     //find the max item in the remaining array and swap with correct index
     int last = n-i-1;

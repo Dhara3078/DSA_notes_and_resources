@@ -196,8 +196,10 @@ Day 9: window sliding
    🔴1. [Set Mismatch](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Set%20Mismatch.cpp)
    
    🟣2. [First Missing Positive](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/First%20Missing%20Positive.cpp)
+ 
+  ## Day 27: Learned following Sorting Algo
+   🟡1. [Merge Sort](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/sorting%20algorithms/Merge_sort.cpp)
    
-<!--    🟡3. [Count Occurences of Anagrams](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Count%20Occurences%20of%20Anagrams.cpp)
-   
-   🟠4. [Max_Sum_Subarray_of_size_K](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Window%20Sliding%20Method/Max_Sum_Subarray_of_size_K.cpp) -->
-                
+   🟠2. [Quick Sort](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/sorting%20algorithms/Quick_sort.cpp)
+    
+   🟢3. Revised previous Sorting Algo

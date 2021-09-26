@@ -1,6 +1,6 @@
 //Idea is to divide array into to part and sort them after sorting merge both array (divide, conquer and merge)
 //Stable sorting algorithm
-//Time complexity : Wrost case = O(NlogN)
+//Time complexity : Worst case = O(NlogN)
 //                  Average case = O(NlogN)
 //                  best case = O(NlogN)
 // Aux space : O(N)

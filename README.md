@@ -175,4 +175,21 @@ Day 9: window sliding
    🟡3. [Nitika and her queries](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Nitika%20and%20her%20queries.cpp)
    
    🟠4. [Maximum sum Rectangle](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Prefix%20Sum/Maximum%20sum%20Rectangle.cpp)
-      
+   
+## Day 24: Leared following Sorting Algorithms
+   🔴1. [Bubble_sort](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/sorting%20algorithms/Bubble_sort.cpp)
+   
+   🟣2. [Insertion Sort](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/sorting%20algorithms/Insertion_Sort.cpp)
+   
+   🟡3. [Selection_Sort](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/sorting%20algorithms/Selection_Sort.cpp)
+   
+   🟠4. [cycle_sort](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/sorting%20algorithms/cycle_sort.cpp)
+## Day 25: Solved following questions on sorting algo
+   🔴1. [Find Missing Number](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Missing%20Number.cpp)
+   
+   🟢2. [Find Duplicate Number](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Find%20the%20Duplicate%20Number.cpp)
+   
+   ⚪3. [Find All Numbers Disappeared in an Array](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)
+   
+   🟡4. [Find All Duplicate Numbers](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Find%20All%20Duplicates%20in%20an%20Array.cpp)
+              

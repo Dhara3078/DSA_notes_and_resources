@@ -203,3 +203,20 @@ Day 9: window sliding
    🟠2. [Quick Sort](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/sorting%20algorithms/Quick_sort.cpp)
     
    🟢3. Revised previous Sorting Algo
+   
+  ## Day 28: some questions on sorting 
+   🟡1. [Merge Without Extra Space ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Merge%20Without%20Extra%20Space%20.cpp)
+   
+   ⚪2. [Count Inversions](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Count%20Inversions.cpp)
+   
+   🟤3. [Chocolate Distribution Problem](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Chocolate%20Distribution%20Problem.cpp)
+   
+   🟣4. [Three way partitioning ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Three%20way%20partitioning.cpp)
+  
+  ## Day 29: Solved more questions on sorting algo
+   🟢1. [Sort by Set Bit Count ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Sort%20by%20Set%20Bit%20Count.cpp)
+   
+   🔴2. [Largest Number](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Largest%20Number.cpp)
+   
+   
+  

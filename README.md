@@ -213,10 +213,19 @@ Day 9: window sliding
    
    🟣4. [Three way partitioning ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Three%20way%20partitioning.cpp)
   
-  ## Day 29: Solved more questions on sorting algo
+## Day 29: Solved more questions on sorting algo
    🟢1. [Sort by Set Bit Count ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Sort%20by%20Set%20Bit%20Count.cpp)
    
    🔴2. [Largest Number](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/sorting/Largest%20Number.cpp)
    
+## Day 30: Learned Linked list data structure
+
+## Day 31: Solved following quewstions on linked list
+   🔴1. [Reverse a Linked List in groups of given size](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Reverse%20a%20Linked%20List%20in%20groups%20of%20given%20size.cpp)
    
+   🟢2. [Detect Loop in linked list](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Detect%20Loop%20in%20linked%20list.cpp)
+   
+   ⚪3. [Remove loop in Linked List ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Remove%20loop%20in%20Linked%20List.cpp)
+   
+   🟡4. [Find length of Loop](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Find%20length%20of%20Loop.cpp)
   

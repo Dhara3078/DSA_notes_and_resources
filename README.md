@@ -228,4 +228,13 @@ Day 9: window sliding
    ⚪3. [Remove loop in Linked List ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Remove%20loop%20in%20Linked%20List.cpp)
    
    🟡4. [Find length of Loop](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Find%20length%20of%20Loop.cpp)
+   
+  ## Day 32: Solved following questions on linked list 
+   🟠1. [Rotate a Linked List](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Reverse%20a%20Linked%20List%20in%20groups%20of%20given%20size.cpp)
+   
+   🟣2. [Remove duplicate element from sorted Linked List](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Remove%20duplicate%20element%20from%20sorted%20Linked%20List.cpp)
+   
+   🟢3. [Remove duplicates from an unsorted linked list ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Remove%20duplicates%20from%20an%20unsorted%20linked%20list.cpp)
+   
+   🔴4. [Add 1 to a number represented as linked list ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Add%201%20to%20a%20number%20represented%20as%20linked%20list.cpp)
   

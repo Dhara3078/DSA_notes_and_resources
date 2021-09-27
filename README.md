@@ -237,4 +237,30 @@ Day 9: window sliding
    🟢3. [Remove duplicates from an unsorted linked list ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Remove%20duplicates%20from%20an%20unsorted%20linked%20list.cpp)
    
    🔴4. [Add 1 to a number represented as linked list ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Add%201%20to%20a%20number%20represented%20as%20linked%20list.cpp)
-  
+   
+## Day 33: More questions on Linked list
+
+   🟡1. [Intersection of two sorted Linked lists ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Intersection%20of%20two%20sorted%20Linked%20lists.cpp)
+   
+   ⚪2. [Intersection Point in Y Shapped Linked Lists](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Intersection%20Point%20in%20Y%20Shapped%20Linked%20Lists.cpp)
+   
+   🟤3. [Middle of the Linked List](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Middle%20of%20the%20Linked%20List.cpp)
+   
+   🟣4. [Check if Linked List is Palindrome](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Check%20if%20Linked%20List%20is%20Palindrome.cpp)
+   
+## Day 34: Learned circular Linked list
+
+## Day 35: Learned Doubly Linked list
+
+## Day 36: Solved following questions
+
+   🔴1. [Check If Circular Linked List](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Check%20If%20Circular%20Linked%20List.cpp)
+   
+   🟣2. [Split a Circular Linked List into two halves](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Split%20a%20Circular%20Linked%20List%20into%20two%20halves.cpp)
+   
+   🟡3. [Reverse a Doubly Linked List](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Reverse%20a%20Doubly%20Linked%20List%20.cpp)
+   
+   🟠4. [Given a linked list of 0s, 1s and 2s, sort it.](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Given%20a%20linked%20list%20of%200s%2C%201s%20and%202s%2C%20sort%20it.cpp)
+   
+   
+

@@ -262,5 +262,25 @@ Day 9: window sliding
    
    🟠4. [Given a linked list of 0s, 1s and 2s, sort it.](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Given%20a%20linked%20list%20of%200s%2C%201s%20and%202s%2C%20sort%20it.cpp)
    
+ ## Day 37: Learned 2D Arrays
+ 
+ ## Day 38: Solved following question on 2D arrays
+   🟠1. [Rotate Image](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Rotate%20Image.cpp)
    
+   🟣2. [Spirally traversing a matrix ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Spirally%20traversing%20a%20matrix.cpp)
+   
+   🟢3. [Search a 2D Matrix](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Search%20a%202D%20Matrix.cpp)
+   
+   🔴4. [Row with max 1s](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Row%20with%20max%201s.cpp)   
+   
+ ## Day 39: Solved more question on 2D arrays
+   🟠1. [Sorted matrix](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Sorted%20matrix.cpp)
+   
+   🟣2. [Median in a row-wise sorted Matrix](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Median%20in%20a%20row-wise%20sorted%20Matrix.cpp)
+   
+   🟢3. [Boolean Matrix](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Boolean%20Matrix.cpp)
+   
+   🔴4. [Make Matrix Beautiful](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Make%20Matrix%20Beautiful.cpp)     
+   
+ 
 

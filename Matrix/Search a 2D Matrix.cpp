@@ -1,6 +1,6 @@
 //Link for the question⬇⬇
 //https://leetcode.com/problems/search-a-2d-matrix/
-//We can use this ;ogic only when matrix is shorted
+//We can use this logic only when matrix is shorted in row and column wise
 //start searching from right most element matrix[0][matrix[0].size()-1]
 //if matrix[i][j]>target go left side means decrement column value j
 //if matrix[i][j]<target increment row value

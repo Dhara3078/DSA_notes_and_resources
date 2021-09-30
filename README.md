@@ -280,7 +280,35 @@ Day 9: window sliding
    
    🟢3. [Boolean Matrix](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Boolean%20Matrix.cpp)
    
-   🔴4. [Make Matrix Beautiful](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Make%20Matrix%20Beautiful.cpp)     
-   
+   🔴4. [Make Matrix Beautiful](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Make%20Matrix%20Beautiful.cpp)  
  
+## Day 40: Learned Stack data structure
 
+## Day 41: Solved following questions on Stack
+   🔴1. [Implement two stacks in an array](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Implement%20two%20stacks%20in%20an%20array.cpp)
+   
+   🟢2. [Reverse a string using Stack ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Reverse%20a%20string%20using%20Stack.cpp)
+   
+   ⚪3. [Parenthesis Checker](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Parenthesis%20Checker.cpp)
+   
+   🟡4. [Special Stack ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Special%20Stack.cpp)   
+   
+## Day 42 : Solved some more question on stack
+
+   🟡1. [Evaluation of Postfix Expression](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Evaluation%20of%20Postfix%20Expression.cpp)
+   
+   ⚪2. [Next Greater Element](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Next%20Greater%20Element.cpp)
+   
+   🟤3. [Delete middle element of a stack](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Delete%20middle%20element%20of%20a%20stack.cpp)
+   
+   🟣4. [Check if Linked List is Palindrome](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Linked%20List/Check%20if%20Linked%20List%20is%20Palindrome.cpp) 
+
+## Day 43: Solved following question on Stack
+   🟠1. [The Celebrity Problem](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/The%20Celebrity%20Problem.cpp)
+   
+   🟣2. [Maximum Rectangular Area in a Histogram](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Maximum%20Rectangular%20Area%20in%20a%20Histogram.cpp)
+   
+   🟢3. [Valid Substring](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Valid%20Substring.cpp)
+   
+<!--    🔴4. [Row with max 1s](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Row%20with%20max%201s.cpp)   
+ -->

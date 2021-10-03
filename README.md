@@ -310,5 +310,24 @@ Day 9: window sliding
    
    🟢3. [Valid Substring](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Stack/Valid%20Substring.cpp)
    
-<!--    🔴4. [Row with max 1s](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Matrix/Row%20with%20max%201s.cpp)   
- -->
+  ## Day 44: Learned Queue Data Structure
+  
+  ## Day 45: Solved following questions on queue
+   🔴1. [Stack using two queues](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/Stack%20using%20two%20queues.cpp)
+   
+   🟢2. [Queue using two Stacks](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/Queue%20using%20two%20Stacks.cpp)
+   
+   ⚪3. [Queue Reversal ](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/Queue%20Reversal.cpp)
+   
+   🟡4. [Reverse First K elements of Queue](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/Reverse%20First%20K%20elements%20of%20Queue.cpp)
+  
+  ## Day 46: Some questions on Queue
+   🔴1. [First negative integer in every window of size k](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp)
+   
+   🟣2. [First non-repeating character in a stream](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp)
+   
+   🟡3. [Count the Reversals](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/Count%20the%20Reversals.cpp)
+   
+   🟠4. [Maximum of all subarrays of size k](https://github.com/Dhara3078/100_Days_of_DSA/blob/main/Queue/Maximum%20of%20all%20subarrays%20of%20size%20k.cpp)
+   
+   

@@ -1,6 +1,7 @@
 //Link for the quetion 
 //https://leetcode.com/problems/two-sum/
 
+
 //Brute force solution would be using two for loop
 
 //Time Complexity : o(n)

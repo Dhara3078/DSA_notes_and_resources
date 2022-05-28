@@ -7,6 +7,23 @@
 * Problems are from Leetcode and Geeksforgeeks website.👩‍🏫✌
 * Separate folders for CP (Codechef).. All Solutions are not optimised 🤭
 
+## Link for GFG DSA course 
+
+* I have used this course to learn DSA in C++.
+
+🔗 https://mega.nz/folder/nU9giKDK#axSBA_FjxoZ179Pp5Qpcrg
+
+**Note : Keep the backup for this mega drive. Because It can be deactivate at any time.**
+
+## YouTube playlists for some DSA topics
+
+* Recursion & Backtracking : [Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
+* Sliding Window : [Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)
+* Trees : [take U forward](https://youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)
+* Graph : [take U forward](https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+* Dynamic Programming : [Aditya Verma](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+
+**Note : These are the playlists that I used while learning DSA. So for me they are the best playlist to learn those topics but for someone it can be any other playlist. If you know any other good playlist to learn DSA please add it here. 😊🙌**
 
 ## Big O Notation
 ### Data Structures in Big O Notation

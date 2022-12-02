@@ -5,7 +5,7 @@
 
 * Find all topic wise questions in different folders🕵️‍♀️
 * Problems are from Leetcode and Geeksforgeeks website.👩‍🏫✌
-* Separate folders for CP (Codechef).. All Solutions are not optimised 🤭
+
 
 ## Link for GFG DSA course 
 

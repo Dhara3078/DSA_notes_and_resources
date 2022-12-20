@@ -47,8 +47,8 @@
 | --- | --- | --- | --- | --- |
 | Selection Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Insertion Sort | ```O(n)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
-| Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
-| Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
+| Quick Sort | ```O(n log n)``` | ```O(n log n)``` | ```O(n^2)``` | ```O(log n)``` |
+| Merge Sort | ```O(n log n)``` | ```O(n log n)``` | ```O(n log n)``` | ```O(n)``` |
 
 
 This will be the repository for C++ topic wise questions, practice questions and DSA :)

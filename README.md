@@ -47,7 +47,7 @@
 | --- | --- | --- | --- | --- |
 | Selection Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Insertion Sort | ```O(n)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
-| Quick Sort | ```O(n log n)``` | ```O(n log n)``` | ```O(n^2)``` | ```O(log n)``` |
+| Quick Sort | ```O(n log n)``` | ```O(n log n)``` | ```O(n^2)``` | ```O(n)``` |
 | Merge Sort | ```O(n log n)``` | ```O(n log n)``` | ```O(n log n)``` | ```O(n)``` |
 
 
